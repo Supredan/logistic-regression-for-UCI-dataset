@@ -6,4 +6,4 @@ input:25, Private, 226802, 11th, 7, Never-married, Machine-op-inspct, Own-child,
 output:<=50K.  
 IDE:Pycharm  
 Envir:Pytorch  
-for more information, please visit my CSDN blog: [click me]()  
+for more information, please visit my CSDN blog: [click me](https://blog.csdn.net/weixin_42687826/article/details/103434799)  
